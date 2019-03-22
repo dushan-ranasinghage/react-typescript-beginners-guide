@@ -49,9 +49,9 @@ const IndexPage = ({
   <Layout>
     <Wrapper>
       <Hero>
-        <h1>Hi.</h1>
+        <h1>React Typescript Starter Pack</h1>
         <p>
-          I&apos;m John Doe, a Senior UX Developer with five years of industry experience, specializing in developing
+          I&apos;m Dushan Randika, a Front End Developer with one year of experience, specializing in developing
           React apps with the best UX users can get.
         </p>
         <Link to="/contact">
