@@ -49,10 +49,9 @@ const IndexPage = ({
   <Layout>
     <Wrapper>
       <Hero>
-        <h1>React Typescript Starter Pack</h1>
+        <h1>React-Typescript Beginners' Guide</h1>
         <p>
-          I&apos;m Dushan Randika, a Front End Developer with one year of experience, specializing in developing
-          React apps with the best UX users can get.
+         React-Typescript articles for beginners which helps you to accelerate your web development skill.
         </p>
         <Link to="/contact">
           <Button big>

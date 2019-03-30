@@ -205,7 +205,7 @@ const Layout = ({ children, customSEO }) => {
         {children}
         <Footer>
           &copy; 2019, All rights reserved. <br />
-          <a href="https://github.com/gatsby-starter-minimal-blog">dExTeR</a> <br />
+          Designed By: <a href="https://github.com/dushanrandika/">dExTeR</a> <br />
           <span>Last build: {buildTime}</span>
         </Footer>
       </>
